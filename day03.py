@@ -1,12 +1,4 @@
 
-
-
-
-
-
-
-
-
 # boolean data 
 # dictionary data type: dict
 # numeric data types: int, float, complex
