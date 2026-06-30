@@ -27,3 +27,4 @@ print(type(b))
 
 str = "hello" , 'world' , "python"
 tuple = (1, 2, 3, "hello", True) # IMMUTABLE
+ 
