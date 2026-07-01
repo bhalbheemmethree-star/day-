@@ -1,4 +1,4 @@
-# If else conditional statements in python
+#day 09: If else conditional statements in python
 # conditional operators
 # > , < , >= , <= , == , !=  
 

@@ -1,4 +1,4 @@
-# taking user input in python
+#day 05: taking user input in python
 
 a = input()
 print("my name is",a)

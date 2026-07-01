@@ -1,4 +1,4 @@
-# Type casting in python
+# day 04: Type casting in python
 # Type casting is the process of converting one data type to another data type. In python, we can use the built-in functions to perform type casting.
 
 a = "1"

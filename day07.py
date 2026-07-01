@@ -1,4 +1,4 @@
-# string slicing and operations in python
+# day 07: string slicing and operations in python
 
 names = "Bhalbheem,Rohit"
 print(names[0:9]) # this will print bhalbheem

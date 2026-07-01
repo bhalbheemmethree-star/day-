@@ -1,5 +1,4 @@
-# string methods in Python
-
+# day 08: string methods in Python
 
 a = "Bhal bheem"
 b = "!!!rohit!!!!!!"

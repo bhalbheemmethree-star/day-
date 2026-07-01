@@ -1,4 +1,5 @@
- #  strings in python ,any thing enclosed in single or double quotes is a string in python
+# day 06: strings in python 
+# any thing enclosed in single or double quotes is a string in python
 
 name = "bhal bheem" # this is a string variable
 print("hello " , name)
